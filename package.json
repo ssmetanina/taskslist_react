@@ -2,6 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ssmetanina.github.io/taskslist_react/",
   "type": "module",
   "scripts": {
     "dev": "vite",
